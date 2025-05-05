@@ -4,5 +4,7 @@ gradio
 pandas
 numpy
 matplotlib
+seaborn
 imbalanced-learn
 statsmodels
+scipy
